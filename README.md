@@ -1,4 +1,4 @@
-### Metric Analyser
+# Metric Analyser
 
 The project was developed in camel.
 
