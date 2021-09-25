@@ -2,7 +2,7 @@
 
 The project was developed in camel.
 
-The application processes a file json that contains the information to analyse: 
+The application processes a file json that contains the following information to analyse: 
 - dtime: represents the date of the measurements
 - metricValue: represents the measurement in byte per second
 
