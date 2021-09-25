@@ -21,16 +21,16 @@ The final result is a file that will be stored under a folder called outputs.  I
 - We will assume that under performing happen rarely.
 - We will assume that the underperformance periods are continuous.
  
-## Output
-
-A pre-format output will be written in a file which name is the same as the file json and the extension will be change from json to ouput.
-The numeric value are in Megabits per second.  Therefore, a conversion to Megabytes per second to Megabits per second will be there.
-
-## Formula
+### Formula
 
 Average =
 
 Median =
+
+## Result
+
+A pre-format output will be written in a file which name is the same as the file json and the extension will be change from json to ouput.
+The numeric value are in Megabits per second.  Therefore, a conversion to Megabytes per second to Megabits per second will be there.
 
 ## ⚙️ Thoughts
 
