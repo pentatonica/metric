@@ -18,6 +18,7 @@ The final result is a file that will be stored under a folder called outputs.  I
 ## Assumptions
 
 - We will assume that when a metric is below 33% of the maximum value it will be underperforming.
+- We will assume that under performing happen rarely.
 - We will assume that the underperformance periods are continuous.
  
 ## Output
@@ -34,5 +35,4 @@ Median =
 ## ⚙️ Thoughts
 
 - What happen if the under performing is only one day or in alternate days ?
-- 
 
