@@ -6,7 +6,7 @@ The application processes a file json that contains the information to analyse:
 - dtime: represents the date of the measurements
 - metricValue: represents the measurement in byte per second
 
-## What we want to obtain
+## 🏃‍♀️ What we want to obtain
 
 The final result is a file that will be stored under a folder called outputs.  It contains the following value of the metric:
 - Minimun 
@@ -18,7 +18,6 @@ The final result is a file that will be stored under a folder called outputs.  I
 ## Assumptions
 
 - We will assume that when a metric is below 33% of the maximum value it will be underperforming.
-- The possibility that it is underperforming all month is not evaluated.
 - We will assume that the underperformance periods are continuous.
  
 ## Output
@@ -32,7 +31,7 @@ Average =
 
 Median =
 
-## Thoughts
+## ⚙️ Thoughts
 
 - What happen if the under performing is only one day or in alternate days ?
 - 
