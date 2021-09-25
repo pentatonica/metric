@@ -1,6 +1,16 @@
 # Metric Analyser
 
-The project was developed in camel.
+###Pre-requisites
+
+- Spring Boot 2.5.5
+- JDK 11
+- Camel 3.11.1
+
+##Introduction
+
+The scope of this project is to generate a preformat files with a serie of statistcs information value and stored them in the outputs folder after analysing the data given in the files stored in the inputs folder.
+
+###Why camel
 
 The application processes a file json that contains the following information to analyse: 
 - dtime: represents the date of the measurements
