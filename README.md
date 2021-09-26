@@ -33,9 +33,9 @@ The final result is a file that will be stored in a folder called outputs.  It c
 
 Average = Sum of metricValues/ Number of metricValues
 
-Median =  <img src="images/median_odd.jpg" width="200px" align="center"> per odd
+Median =  <img src="images/median_odd.jpg" width="200px" align="center"> per odd number of elements.
 
-Median = <img src="images/median_even.jpg" width="200px" align="center"> per even
+Median = <img src="images/median_even.jpg" width="200px" align="center"> per even number of elements.
 
 ## Result
 
