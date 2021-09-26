@@ -43,4 +43,4 @@ A pre-format output will be written in a file whose name is the same as the file
 The numeric value are in Megabits per second.  Therefore, a conversion from bytes per second to Megabits per second will be there.
 
 
-
+<img src="images/outputFile.png"  style="align:middle; margin:0 auto"> 
