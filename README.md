@@ -8,41 +8,39 @@
 
 ## Introduction
 
-The scope of this project is to generate a preformat files with a serie of statistcs informations and stored them in the outputs folder after analysing the data given in the files stored in the inputs folder.
+The scope of this project is to generate pre format files with a series of statistical information and store them in the 'outputs' folder after analyzing the data in the files which are stored in 'inputs' folder.
 
-### Why camel
+### What the application does
 
-The application processes a file json that contains the following information to analyse: 
+The application processes a file json that contains the following information to analyze: 
 - dtime: represents the date of the measurements
 - metricValue: represents the measurement in byte per second
 
-## 🏃‍♀️ What we want to obtain
-
-The final result is a file that will be stored under a folder called outputs.  It contains the following value of the metric:
+The final result is a file that will be stored in a folder called outputs.  It contains the following value of the metric:
 - Minimun 
 - Maximun 
 - Average or mean 
 - Median
-- If there are lower performances it will be shown the period where this performance happened.
+- If performances are low it will show an extra information regarding the period when it happened.
 
 ## Assumptions
 
-- We will assume that when a metric is below 33% of the maximum value it will be underperforming.
+- We will assume that if the metric is below 33% of the maximum value it will be underperforming.
 - We will assume that under performing happen rarely.
 - We will assume that the underperformance periods are continuous.
  
 ### Formula
 
-Average =
+Average = Sum of metricValues/ Number of metricValues
 
-Median =
+Median =  per odd
+
+Median = 
 
 ## Result
 
-A pre-format output will be written in a file which name is the same as the file json and the extension will be change from json to ouput.
-The numeric value are in Megabits per second.  Therefore, a conversion to Megabytes per second to Megabits per second will be there.
+A pre-format output will be written in a file whose name is the same as the file json and the extension is changed from json to ouput.
+The numeric value are in Megabits per second.  Therefore, a conversion from bytes per second to Megabits per second will be there.
 
-## ⚙️ Thoughts
 
-- What happen if the under performing is only one day or in alternate days ?
 
