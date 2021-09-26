@@ -2,9 +2,9 @@
 
 ### Pre-requisites
 
-- Spring Boot 2.5.5
+- Spring Boot 2.5.5 https://spring.io/projects/spring-boot
 - JDK 11
-- Camel 3.11.1
+- Camel 3.11.1 https://camel.apache.org/docs/
 
 ## Introduction
 
