@@ -35,7 +35,7 @@ Average = Sum of metricValues/ Number of metricValues
 
 Median =  <img src="images/median_odd.jpg" width="200px" align="center"> per odd
 
-Median = <img src="images/median_even.jpg" width="300px" align="center"> per even
+Median = <img src="images/median_even.jpg" width="200px" align="center"> per even
 
 ## Result
 
