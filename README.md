@@ -10,7 +10,7 @@
 
 The scope of this project is to generate pre format files with a series of statistical information and store them in the 'outputs' folder after analyzing the data in the files which are stored in 'inputs' folder.
 
-### What the application does
+## What the application does
 
 The application processes a file json that contains the following information to analyze: 
 - dtime: represents the date of the measurements
@@ -23,7 +23,7 @@ The final result is a file that will be stored in a folder called outputs.  It c
 - Median
 - If performances are low it will show an extra information regarding the period when it happened.
 
-## Assumptions
+### Assumptions
 
 - We will assume that if the metric is below 33% of the maximum value it will be underperforming.
 - We will assume that under performing happen rarely.
