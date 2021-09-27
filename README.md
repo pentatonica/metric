@@ -29,7 +29,7 @@ The final result is a file that will be stored in a folder called <i>outputs</i>
 
 <img src="images/general-flowchart.png"/>
 
-#### Flowchart of the Business Logic
+#### Flowchart of the Business Logic (Processes information block)
 <img src="images/flowchart-metric-service.png" />
 
 ### Assumptions
