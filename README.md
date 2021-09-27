@@ -34,9 +34,11 @@ The final result is a file that will be stored in a folder called <i>outputs</i>
 
 ### Assumptions
 
-- We will assume that if the metric is below 33% of the maximum value it will be underperforming.
-- We will assume that under performing happen rarely.
-- We will assume that the underperformance periods are continuous.
+We will assume the following:
+
+- If the metric is below 33% of the maximum value it will be underperforming.
+- Under performing happen rarely.
+- The underperformance periods are continuous.
  
 ### Formula
 
