@@ -23,6 +23,15 @@ The final result is a file that will be stored in a folder called <i>outputs</i>
 - Median
 - If performances are low it will show an extra information regarding the period when it happened.
 
+### Flow
+
+#### General Behaviour
+
+<img src="images/general-flowchart.png"/>
+
+#### Flowchart of the Business Logic
+<img src="images/flowchart-metric-service.png" />
+
 ### Assumptions
 
 - We will assume that if the metric is below 33% of the maximum value it will be underperforming.
